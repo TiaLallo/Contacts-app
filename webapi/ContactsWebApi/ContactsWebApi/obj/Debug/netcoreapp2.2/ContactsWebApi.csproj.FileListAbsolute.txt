@@ -1,0 +1,14 @@
+C:\Dev\Contacts-app\webapi\ContactsWebApi\ContactsWebApi\bin\Debug\netcoreapp2.2\ContactsWebApi.deps.json
+C:\Dev\Contacts-app\webapi\ContactsWebApi\ContactsWebApi\bin\Debug\netcoreapp2.2\ContactsWebApi.runtimeconfig.json
+C:\Dev\Contacts-app\webapi\ContactsWebApi\ContactsWebApi\bin\Debug\netcoreapp2.2\ContactsWebApi.runtimeconfig.dev.json
+C:\Dev\Contacts-app\webapi\ContactsWebApi\ContactsWebApi\bin\Debug\netcoreapp2.2\ContactsWebApi.dll
+C:\Dev\Contacts-app\webapi\ContactsWebApi\ContactsWebApi\obj\Debug\netcoreapp2.2\ContactsWebApi.csprojAssemblyReference.cache
+C:\Dev\Contacts-app\webapi\ContactsWebApi\ContactsWebApi\obj\Debug\netcoreapp2.2\ContactsWebApi.csproj.CoreCompileInputs.cache
+C:\Dev\Contacts-app\webapi\ContactsWebApi\ContactsWebApi\obj\Debug\netcoreapp2.2\ContactsWebApi.RazorAssemblyInfo.cache
+C:\Dev\Contacts-app\webapi\ContactsWebApi\ContactsWebApi\obj\Debug\netcoreapp2.2\ContactsWebApi.RazorAssemblyInfo.cs
+C:\Dev\Contacts-app\webapi\ContactsWebApi\ContactsWebApi\obj\Debug\netcoreapp2.2\ContactsWebApi.AssemblyInfoInputs.cache
+C:\Dev\Contacts-app\webapi\ContactsWebApi\ContactsWebApi\obj\Debug\netcoreapp2.2\ContactsWebApi.AssemblyInfo.cs
+C:\Dev\Contacts-app\webapi\ContactsWebApi\ContactsWebApi\obj\Debug\netcoreapp2.2\ContactsWebApi.RazorTargetAssemblyInfo.cache
+C:\Dev\Contacts-app\webapi\ContactsWebApi\ContactsWebApi\bin\Debug\netcoreapp2.2\ContactsWebApi.pdb
+C:\Dev\Contacts-app\webapi\ContactsWebApi\ContactsWebApi\obj\Debug\netcoreapp2.2\ContactsWebApi.dll
+C:\Dev\Contacts-app\webapi\ContactsWebApi\ContactsWebApi\obj\Debug\netcoreapp2.2\ContactsWebApi.pdb
